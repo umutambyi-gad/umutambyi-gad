@@ -2,7 +2,7 @@
 
 <!--
 **umutambyi-gad/umutambyi-gad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://stackexchange.com/users/18576302"><img src="https://stackexchange.com/users/flair/18576302.png" width="208" height="58" alt="profile for Gad on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Gad on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
