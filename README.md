@@ -8,8 +8,7 @@ here is one of my profile
 <a href="https://www.codewars.com/users/Umutambyi%20Gad" title="profile of Umutambyi Gad on codewars">
  	<img src="https://www.codewars.com/users/Umutambyi%20Gad/badges/large" width="270" height="70">
 </a>
- 
-<br>
+
 
 I like to help and learn new things from other developers' communities like
 [stackoverflow](https://www.stackoverflow.com/users/18576302) here is my profile to
