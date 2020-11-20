@@ -1,5 +1,5 @@
 I'm Software Engineer whom always look forward to expand the skill-set and grow.<br>
-My main main focus is on Website developement and Mobile development with an emphasis on android however I have an experience with Machine learning, Deep learning, Artificial Inteligent and data science.<br>
+My main main focus is on Website developement and Mobile development with an emphasis on android<br>
 If there is something I can assist you please don't hesitate to contact me I'll be looking forward to hearing from you
 
 I like to solve big problems and chalenges mostly on [codewars](https://www.codewars.com/users/Umutambyi%20Gad), [hackerrank](https://www.hackerrank.com/_Gad_)
