@@ -3,7 +3,7 @@
 ### About me
 I'm Humble, Curious, Passionate, Empathetic jonior Software Developer from Rwanda.<br>
 I've been programming since I was a little kid on behalf of courage of my senior Software Engineer uncle and really loved it. I joined Software Development in high school, bootcamps and many online courses to elevate my skills.
-I'm also both open source and technology enthusiastic and other relevant to programming.
+I'm also both open source and technology enthusiast and other relevant to programming.
 
 ### Connect with me:
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umutambyi-gad/umutambyi-gad/)
