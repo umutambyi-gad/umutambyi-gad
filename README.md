@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img width="45" src="https://github.com/sudimuk2017/qwaszx/blob/main/waving_hand.gif">
 
 ### About me
 I'm Humble, Curious, Passionate, Empathetic jonior Software Developer from Rwanda.<br>
