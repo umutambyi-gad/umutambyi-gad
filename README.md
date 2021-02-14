@@ -14,4 +14,4 @@ I'm also both open source and technology enthusiastic and other relevant to prog
 ---
 |My overall statistics|Top most languages |
 |------------------|-------------|
-|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=umutambyi-gad&show_icons=true&hide_border=true&&count_private=true")|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutambyi-gad&langs_count=100&count_private=true)|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=umutambyi-gad&show_icons=true&hide_border=true&hide=issues&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutambyi-gad&langs_count=100&count_private=true&show_icons=true)|
