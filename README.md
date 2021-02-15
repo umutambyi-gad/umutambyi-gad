@@ -16,6 +16,6 @@ I'm also both open source and technology enthusiast and other relevant to progra
 ### Overview:
 |My overall statistics|Top most languages |
 |------------------|-------------|
-|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=umutambyi-gad&show_icons=true&hide_border=true&count_private=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutambyi-gad&langs_count=100&show_icons=true&count_private=true)|
+|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=umutambyi-gad&show_icons=true&hide_border=true&count_private=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutambyi-gad&langs_count=10&count_private=true)|
 ### Shoutout to all visitors 🙏:
 <img src="https://komarev.com/ghpvc/?username=umutambyi-gad&style=plastic" title="Umutambyi Gad's profile visitors" width="150"></h3>
