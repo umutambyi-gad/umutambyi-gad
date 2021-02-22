@@ -1,4 +1,4 @@
-## Hi there 👋🏾
+# Hi there 👋🏾
 
 ### About me:
 I'm Humble, Curious, Passionate, Empathetic jonior Software Developer from Rwanda.<br>
