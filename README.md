@@ -2,7 +2,7 @@
 
 ### About me:
 I'm Humble, Curious, Passionate, Empathetic jonior Software Developer from Rwanda.<br>
-I've been programming since I was a little kid on behalf of the courage of my senior Software Engineer uncle and I really loved it. I joined Software Development in high school, bootcamps and many online courses to elevate my skills and still.
+I've been programming since I was a little kid on behalf of the courage of my senior Software Engineer uncle and I really loved it. I joined Software Development in high school, bootcamps and many online courses to elevate my skills.
 I'm also open source, technology enthusiast and other relevant to programming.
 
 ### Connect with me:
